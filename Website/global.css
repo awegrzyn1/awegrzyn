@@ -33,11 +33,11 @@ section {
 	top: 0px;
 	color: #FFF;
 	left: 330px;
-	height: 300px;
+	height: 100px;
 }
 footer {
 	position: relative;
-	left: -90px;
+	left: 30px;
 }
 nav {
 	font-family: Arial, Helvetica, sans-serif;
